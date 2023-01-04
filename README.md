@@ -17,16 +17,16 @@ Fullstack developer
 
 ## Projects
   - **Soundkloud:** Fullstack clone of Soundcloud
-  -- [Live]()
-  -- [Github](https://github.com/chazzlee/soundkloud)
+    - [Live](https://soundkloud-rails.onrender.com/)
+    - [Github](https://github.com/chazzlee/soundkloud)
   
   - **ExpressPOS:** Point of Sale proof of concept
-  -- [Live](https://expresspos.onrender.com/)
-  -- [Github](https://github.com/ArnobDam/Express)
+    - [Live](https://expresspos.onrender.com/)
+    - [Github](https://github.com/ArnobDam/Express)
   
   - **JS Step Sequencer:** Point of Sale proof of concept
-  -- [Live](https://chazzlee.github.io/js_stepper/)
-  -- [Github](https://github.com/chazzlee/js_stepper)
+    - [Live](https://chazzlee.github.io/js_stepper/)
+    - [Github](https://github.com/chazzlee/js_stepper)
 
 ## Workflow
 - VSCode

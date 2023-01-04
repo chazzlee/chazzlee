@@ -22,7 +22,7 @@ Fullstack developer
   
   - **ExpressPOS:** Point of Sale proof of concept
     - [Live](https://expresspos.onrender.com/)
-    - [Github](https://github.com/ArnobDam/Express)
+    - [Github](https://github.com/chazzlee/ExpressPOS)
   
   - **JS Step Sequencer:** Point of Sale proof of concept
     - [Live](https://chazzlee.github.io/js_stepper/)
